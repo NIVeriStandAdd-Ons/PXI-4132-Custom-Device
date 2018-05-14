@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## PXI-4132 Custom Device ##
 
 **PXI-4132 Custom Device** integrates the PXI-4132 precision SMU into NI VeriStand.
